@@ -109,3 +109,20 @@ The Streamlit application loads this model and provides a multi-page user interf
 
 ```
 ```
+
+## Portfolio brief
+
+An intelligent irrigation dashboard combining sensor inputs, crop-aware recommendations, manual overrides, schedules, and water-use analytics.
+
+### Visual system
+
+A calm agricultural operations console: deep soil neutrals, a single irrigation accent, clear status hierarchy, and charts that prioritize decisions over decoration.
+
+### Architecture
+
+Streamlit presentation, Python/Scikit-learn inference, sensor and weather adapters, event logging, and local secret injection.
+
+### Run and output
+
+Install the documented dependencies and launch the Streamlit app locally. Supply weather credentials through a local secret mechanism; do not commit them.
+
