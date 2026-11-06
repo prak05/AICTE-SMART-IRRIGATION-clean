@@ -36,3 +36,5 @@ flowchart TD
 ## 3. Branch Architecture
 * [`main`](https://github.com/prak05/AgriSmart-Precision-Irrigation/tree/main): IoT Core telemetry pipeline with AWS Lambda automation.
 * [`Ex`](https://github.com/prak05/AgriSmart-Precision-Irrigation/tree/Ex): Preserved student project prototype.
+
+<!-- antigravity-certified -->
